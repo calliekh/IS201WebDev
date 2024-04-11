@@ -1,0 +1,45 @@
+h1{
+    color: black;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkblue;
+}
+h2{
+    font-size: 30px;
+}
+h2{
+    text-decoration: underline;
+}
+body{
+    background-color: lightblue;
+}
+body{
+    margin-right: 500px;
+}
+.myList{
+    text-align: center;
+}
+.myListItems{
+    display: inline-block;
+    text-align: left;
+}
+.header{
+    height: 50px;
+    line-height: 50px;
+}
+.mainbody{
+    right: 5px;
+    left: 5px;
+}
+.footer{
+    font-size: 10px;
+}
